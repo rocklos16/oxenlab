@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /home/ikram/oxenlab/spark_project/target/scala-2.10/testing_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	test/SaveToEs.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ikram/oxenlab/spark_project/target/scala-2.10/classes/test/SaveToEs.class[0m
+[0m[[0mdebug[0m] [0m	test/SaveToEs$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ikram/oxenlab/spark_project/target/scala-2.10/classes/test/SaveToEs$.class[0m
+[0m[[0mdebug[0m] [0m	test/Testing$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ikram/oxenlab/spark_project/target/scala-2.10/classes/test/Testing$.class[0m
+[0m[[0mdebug[0m] [0m	test[0m
+[0m[[0mdebug[0m] [0m	  /home/ikram/oxenlab/spark_project/target/scala-2.10/classes/test[0m
+[0m[[0mdebug[0m] [0m	test/Testing.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ikram/oxenlab/spark_project/target/scala-2.10/classes/test/Testing.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
